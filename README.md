@@ -1,4 +1,4 @@
 katienowak.github.io
 ====================
 
-Coffee Shop Website Concept
+A Graphic Designers's Portfolio
